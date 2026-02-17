@@ -1,3 +1,4 @@
 
 print('Hello World')
-print('Error')
+
+print('Error resolved')
